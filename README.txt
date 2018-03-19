@@ -1,1 +1,2 @@
-NothingnessInside
+In this folder you can find files that explain the usage of Git. One command that I could not get Git to use properly compared to what is explained in the files was "git push". I solved this using the following command:
+$ git push -u origin master
